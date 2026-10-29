@@ -99,7 +99,7 @@ CyberAudit/
 
 ---
 
-## ⚙️ Instalação e execução
+##  Instalação e execução
 
 ### Pré-requisitos
 - JDK 21 (ou superior)
@@ -148,7 +148,7 @@ mvn -pl cyberaudit javafx:run
 
 ---
 
-## ⚖️ Ética e legalidade
+##  Ética e legalidade
 
 O CyberAudit foi desenvolvido **exclusivamente para fins educativos e de auditoria autorizada**.
 
@@ -159,7 +159,7 @@ O CyberAudit foi desenvolvido **exclusivamente para fins educativos e de auditor
 
 ---
 
-## 🧪 Testes
+##  Testes
 
 ```bash
 mvn test
@@ -167,7 +167,7 @@ mvn test
 
 ---
 
-## 🗓️ Estado do projeto
+##  Estado do projeto
 
 - [ ] Estrutura base do projeto (Maven)
 - [ ] MiniGram: servidor e API REST
@@ -189,7 +189,7 @@ Este projeto integra várias áreas do curso de TGPSI: programação orientada a
 
 ## Autor
 
-**<Idalina Fraga>**
+**<Idalina>**
 Curso TGPSI · PAP 2027
 
 
